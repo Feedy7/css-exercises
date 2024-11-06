@@ -1,0 +1,19 @@
+.odd-numbers {
+    background-color: hsla(308, 100%, 50%, 0.575);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.odd-numbers.number-3 {
+    font-size: 24px;
+}
+
+.even-numbers {
+    font-size: 24px;
+    font-weight: bold;
+}
+#number-2 {
+    color: #0026ff;
+
+}
+#number-4 {
+    background-color: #95fc66b9;
+}
